@@ -1,0 +1,18 @@
+{
+  "name": "vue-doc-md",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve App.vue"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
+    "vue": "^2.5.17",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "dependencies": {
+    "marked": "^0.4.0",
+    "vue-loader": "^15.3.0"
+  }
+}
